@@ -4,8 +4,8 @@ channels:
 - robostack
 dependencies:
 - python=3.8
-- nodejs=14
-- jupyterlab=3.1
+- nodejs
+- jupyterlab
 - ipympl
 - ipyvuetify
 - bqplot
