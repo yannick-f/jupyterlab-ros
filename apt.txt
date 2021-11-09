@@ -1,0 +1,13 @@
+ros-noetic-joy
+ros-noetic-kobuki-msgs
+ros-noetic-kobuki-driver
+ros-noetic-kobuki-nav-msgs
+ros-noetic-depthimage-to-laserscan
+ros-noetic-kobuki-dock-drive
+ros-noetic-ecl-threads
+ros-noetic-ecl-geometry
+ros-noetic-ecl-streams
+ros-noetic-gazeo-ros
+ros-noetic-yocs-cmd-vel-mux
+ros-noetic-yocs-controllers
+pyqt5-dev-tools
