@@ -22,7 +22,16 @@ dependencies:
 - ros-noetic-teb-local-planner
 - ros-noetic-turtlebot3
 - ros-noetic-turtlebot3-fake
-# our stuff
+# Robostack
 - robostack::jupyterlab-ros
 - robostack::jupyter-amphion
-#- robostack::jupyter-ros
+# igmr-packages
+- ros-noetic-joy
+- ros-noetic-kobuki-msgs
+- ros-noetic-kobuki-driver
+- ros-noetic-depthimage-to-laserscan
+- ros-noetic-kobuki-dock-drive
+- ros-noetic-ecl-threads
+- ros-noetic-ecl-geometry
+- ros-noetic-ecl-streams
+- ros-noetic-gazeo-ros
