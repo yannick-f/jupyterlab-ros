@@ -1,4 +1,4 @@
-name: jupyterlab-ros
+name: notebook
 channels:
 - conda-forge
 - robostack
