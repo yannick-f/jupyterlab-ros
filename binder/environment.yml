@@ -35,3 +35,6 @@ dependencies:
 - ros-noetic-ecl-geometry
 - ros-noetic-ecl-streams
 - ros-noetic-gazeo-ros
+# xeus-cling
+- xeus-cling
+- xwidgets
