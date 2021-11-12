@@ -21,3 +21,5 @@ jupyter_ros_server/**/__pycache__
 .vscode/
 .DS_Store
 .ipynb_checkpoints
+
+.idea/*
